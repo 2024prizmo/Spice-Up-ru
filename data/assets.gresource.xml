@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/com/github/philip-scott/spice-up">
+    <file alias="drag.svg" compressed="true" preprocess="xml-stripblanks">icons/drag.svg</file>
+    <file alias="text-symbolic.svg" compressed="true" preprocess="xml-stripblanks">icons/text-symbolic.svg</file>
+    <file alias="photo-symbolic.svg" compressed="true" preprocess="xml-stripblanks">icons/photos-symbolic.svg</file>
+    <file alias="gradient-symbolic.svg" compressed="true" preprocess="xml-stripblanks">icons/gradient-symbolic.svg</file>
+    <file alias="color-palette-symbolic.svg" compressed="true" preprocess="xml-stripblanks">icons/color-palette-symbolic.svg</file>
+    <file alias="gradient-palette-symbolic.svg" compressed="true" preprocess="xml-stripblanks">icons/gradient-palette-symbolic.svg</file>
+    <file alias="custom-color-symbolic.svg" compressed="true" preprocess="xml-stripblanks">icons/custom-color-symbolic.svg</file>
+    <file alias="shape-symbolic.svg" compressed="false" preprocess="">icons/shape-symbolic.svg</file>
+    <file alias="align-top-symbolic" compressed="false" preprocess="xml-stripblanks">icons/align-top-symbolic.svg</file>
+    <file alias="align-middle-symbolic" compressed="false" preprocess="xml-stripblanks">icons/align-middle-symbolic.svg</file>
+    <file alias="align-bottom-symbolic" compressed="false" preprocess="xml-stripblanks">icons/align-bottom-symbolic.svg</file>
+    <file alias="stylesheet.css" compressed="false" preprocess="">stylesheet.css</file>
+    <file alias="save-header" compressed="false" preprocess="">SaveHeader-min.html</file>
+    <file alias="save-footer" compressed="false" preprocess="">SaveFooter-min.html</file>
+  </gresource>
+  <gresource prefix="/com/github/philip-scott/spice-up/templates">
+    <file alias="Black.spice" compressed="false" preprocess="">assets/templates/Black.spice</file>
+    <file alias="Colorful.spice" compressed="false" preprocess="">assets/templates/Colorful.spice</file>
+    <file alias="Green.spice" compressed="false" preprocess="">assets/templates/Green.spice</file>
+    <file alias="Landscape.spice" compressed="false" preprocess="">assets/templates/Landscape.spice</file>
+    <file alias="Paper.spice" compressed="false" preprocess="">assets/templates/Paper.spice</file>
+    <file alias="Spice-Up.spice" compressed="false" preprocess="">assets/templates/Spice-Up.spice</file>
+    <file alias="White.spice" compressed="false" preprocess="">assets/templates/White.spice</file>
+  </gresource>
+  <gresource prefix="/com/github/philip-scott/spice-up/patterns/">
+    <file alias="3px-tile.png" compressed="false" preprocess="">assets/patterns/3px-tile.png</file>
+    <file alias="45-degree-fabric-dark.png" compressed="false" preprocess="">assets/patterns/45-degree-fabric-dark.png</file>
+    <file alias="45-degree-fabric-light.png" compressed="false" preprocess="">assets/patterns/45-degree-fabric-light.png</file>
+    <file alias="batthern.png" compressed="false" preprocess="">assets/patterns/batthern.png</file>
+    <file alias="beige-paper.png" compressed="false" preprocess="">assets/patterns/beige-paper.png</file>
+    <file alias="black-linen.png" compressed="false" preprocess="">assets/patterns/black-linen.png</file>
+    <file alias="bright-squares.png" compressed="false" preprocess="">assets/patterns/bright-squares.png</file>
+    <file alias="diamond-upholstery.png" compressed="false" preprocess="">assets/patterns/diamond-upholstery.png</file>
+    <file alias="flowers.png" compressed="false" preprocess="">assets/patterns/flowers.png</file>
+    <file alias="hexellence.png" compressed="false" preprocess="">assets/patterns/hexellence.png</file>
+    <file alias="gplay.png" compressed="false" preprocess="">assets/patterns/gplay.png</file>
+    <file alias="inspiration-geometry.png" compressed="false" preprocess="">assets/patterns/inspiration-geometry.png</file>
+    <file alias="dark-geometric.png" compressed="false" preprocess="">assets/patterns/dark-geometric.png</file>
+    <file alias="light-wool.png" compressed="false" preprocess="">assets/patterns/light-wool.png</file>
+    <file alias="ps-neutral.png" compressed="false" preprocess="">assets/patterns/ps-neutral.png</file>
+    <file alias="silver-scales.png" compressed="false" preprocess="">assets/patterns/silver-scales.png</file>
+    <file alias="subtle-freckles.png" compressed="false" preprocess="">assets/patterns/subtle-freckles.png</file>
+    <file alias="subtle-grey.png" compressed="false" preprocess="">assets/patterns/subtle-grey.png</file>
+    <file alias="xv.png" compressed="false" preprocess="">assets/patterns/xv.png</file>
+  </gresource>
+</gresources>
